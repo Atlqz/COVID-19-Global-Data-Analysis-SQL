@@ -1,6 +1,5 @@
 /*******************************************************************
  * Title: COVID-19 Global Data Exploration & Analysis (2020-2024)
- * Author: [Your Name]
  * Description: Advanced SQL analysis of global COVID-19 trends using 
  *              joins, CTEs, window functions, and aggregate statistics.
  * Data Source: Our World in Data (CovidDeaths & CovidVaccinations)
