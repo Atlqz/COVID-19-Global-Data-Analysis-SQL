@@ -93,11 +93,8 @@ COVID-19-Global-Data-Analysis-SQL/
 │
 ├── README.md                          # Project documentation
 ├── Covid19_Data_Exploration.sql       # Complete SQL analysis (20+ queries)
-├── data_dictionary.md                 # Column descriptions and data types
-└── images/                            # Sample Query result screenshots
-    ├── infection_rate_top10.png
-    ├── mortality_by_continent.png
-    └── vaccination_timeline.png
+└── data_dictionary.md                 # Column descriptions and data types
+
 ```
 
 ---
